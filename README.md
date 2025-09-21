@@ -32,7 +32,4 @@ Este projeto é um aplicativo mobile desenvolvido com **React Native**, **Expo**
 ![splash](./assets/splash.png)
 
 > Imagem de splash pode ser personalizada no arquivo `app.json`.
-
-
-
 Clone o repositório

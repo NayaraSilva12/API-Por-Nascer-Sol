@@ -6,13 +6,13 @@ Este projeto é um aplicativo mobile desenvolvido com **React Native**, **Expo**
 
 ## 📱 Funcionalidades
 
-- ✅ Splash Screen personalizada
-- ✅ Tela principal com seleção de cidade/estado
-- ✅ Consulta automática à API pública
-- ✅ Exibição dos horários de nascer e pôr do sol
-- ✅ Cálculo da duração do dia
-- ✅ Estilização com `StyleSheet`
-- ✅ Tipagem completa com TypeScript
+- Splash Screen personalizada
+- Tela principal com seleção de cidade/estado
+- Consulta automática à API pública
+- Exibição dos horários de nascer e pôr do sol
+- Cálculo da duração do dia
+- Estilização com `StyleSheet`
+- Tipagem completa com TypeScript
 
 ---
 

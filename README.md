@@ -1,4 +1,4 @@
-# 🌅 App Nascer e Pôr do Sol - React Native + Expo + TypeScript
+# App Nascer e Pôr do Sol - React Native + Expo + TypeScript
 
 Este projeto é um aplicativo mobile desenvolvido com **React Native**, **Expo** e **TypeScript**, que exibe os horários de **nascer e pôr do sol** para diferentes cidades do Brasil. O app utiliza a API pública [Sunrise-Sunset API](https://sunrise-sunset.org/api) para buscar os dados com base na **latitude e longitude** de cada local.
 
